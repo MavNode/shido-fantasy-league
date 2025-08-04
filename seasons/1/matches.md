@@ -1,51 +1,104 @@
 # Season 1 Match Schedule
 
-Each match starts at **12:00 UTC** and ends at **11:00 UTC** the next day.
+**Match Timing:**  
+- **MatchDay 1**: 24h matches (12:00 UTC to 12:00 UTC next day)  
+- **MatchDay 2 and onward**: Matches run **14:00 to 02:00 CET** (i.e., **12:00 to 00:00 UTC**)
 
-| Day | Start (UTC) | End (UTC) | Team A | Team B |
-|-----|-------------|-----------|--------|--------|
-| Day 1 | 2025-08-03T12:00 | 2025-08-04T11:00 | W-SHIDO Athletic | 0xDead Athletic |
-| Day 1 | 2025-08-03T12:00 | 2025-08-04T11:00 | Kensei Rakun FC | Shidoshi Eleven |
-| Day 1 | 2025-08-03T12:00 | 2025-08-04T11:00 | ShidoKid Academy | MSMoon FC |
-| Day 1 | 2025-08-03T12:00 | 2025-08-04T11:00 | SHDX United | Shibo Inu Union |
-| Day 1 | 2025-08-03T12:00 | 2025-08-04T11:00 | Salt Rovers | Crazy Chicken Town |
-| Day 2 | 2025-08-04T12:00 | 2025-08-05T11:00 | W-SHIDO Athletic | Shidoshi Eleven |
-| Day 2 | 2025-08-04T12:00 | 2025-08-05T11:00 | 0xDead Athletic | MSMoon FC |
-| Day 2 | 2025-08-04T12:00 | 2025-08-05T11:00 | Kensei Rakun FC | Shibo Inu Union |
-| Day 2 | 2025-08-04T12:00 | 2025-08-05T11:00 | ShidoKid Academy | Crazy Chicken Town |
-| Day 2 | 2025-08-04T12:00 | 2025-08-05T11:00 | SHDX United | Salt Rovers |
-| Day 3 | 2025-08-05T12:00 | 2025-08-06T11:00 | W-SHIDO Athletic | MSMoon FC |
-| Day 3 | 2025-08-05T12:00 | 2025-08-06T11:00 | Shidoshi Eleven | Shibo Inu Union |
-| Day 3 | 2025-08-05T12:00 | 2025-08-06T11:00 | 0xDead Athletic | Crazy Chicken Town |
-| Day 3 | 2025-08-05T12:00 | 2025-08-06T11:00 | Kensei Rakun FC | Salt Rovers |
-| Day 3 | 2025-08-05T12:00 | 2025-08-06T11:00 | ShidoKid Academy | SHDX United |
-| Day 4 | 2025-08-06T12:00 | 2025-08-07T11:00 | W-SHIDO Athletic | Shibo Inu Union |
-| Day 4 | 2025-08-06T12:00 | 2025-08-07T11:00 | MSMoon FC | Crazy Chicken Town |
-| Day 4 | 2025-08-06T12:00 | 2025-08-07T11:00 | Shidoshi Eleven | Salt Rovers |
-| Day 4 | 2025-08-06T12:00 | 2025-08-07T11:00 | 0xDead Athletic | SHDX United |
-| Day 4 | 2025-08-06T12:00 | 2025-08-07T11:00 | Kensei Rakun FC | ShidoKid Academy |
-| Day 5 | 2025-08-07T12:00 | 2025-08-08T11:00 | W-SHIDO Athletic | Crazy Chicken Town |
-| Day 5 | 2025-08-07T12:00 | 2025-08-08T11:00 | Shibo Inu Union | Salt Rovers |
-| Day 5 | 2025-08-07T12:00 | 2025-08-08T11:00 | MSMoon FC | SHDX United |
-| Day 5 | 2025-08-07T12:00 | 2025-08-08T11:00 | Shidoshi Eleven | ShidoKid Academy |
-| Day 5 | 2025-08-07T12:00 | 2025-08-08T11:00 | 0xDead Athletic | Kensei Rakun FC |
-| Day 6 | 2025-08-08T12:00 | 2025-08-09T11:00 | W-SHIDO Athletic | Salt Rovers |
-| Day 6 | 2025-08-08T12:00 | 2025-08-09T11:00 | Crazy Chicken Town | SHDX United |
-| Day 6 | 2025-08-08T12:00 | 2025-08-09T11:00 | Shibo Inu Union | ShidoKid Academy |
-| Day 6 | 2025-08-08T12:00 | 2025-08-09T11:00 | MSMoon FC | Kensei Rakun FC |
-| Day 6 | 2025-08-08T12:00 | 2025-08-09T11:00 | Shidoshi Eleven | 0xDead Athletic |
-| Day 7 | 2025-08-09T12:00 | 2025-08-10T11:00 | W-SHIDO Athletic | SHDX United |
-| Day 7 | 2025-08-09T12:00 | 2025-08-10T11:00 | Salt Rovers | ShidoKid Academy |
-| Day 7 | 2025-08-09T12:00 | 2025-08-10T11:00 | Crazy Chicken Town | Kensei Rakun FC |
-| Day 7 | 2025-08-09T12:00 | 2025-08-10T11:00 | Shibo Inu Union | 0xDead Athletic |
-| Day 7 | 2025-08-09T12:00 | 2025-08-10T11:00 | MSMoon FC | Shidoshi Eleven |
-| Day 8 | 2025-08-10T12:00 | 2025-08-11T11:00 | W-SHIDO Athletic | ShidoKid Academy |
-| Day 8 | 2025-08-10T12:00 | 2025-08-11T11:00 | SHDX United | Kensei Rakun FC |
-| Day 8 | 2025-08-10T12:00 | 2025-08-11T11:00 | Salt Rovers | 0xDead Athletic |
-| Day 8 | 2025-08-10T12:00 | 2025-08-11T11:00 | Crazy Chicken Town | Shidoshi Eleven |
-| Day 8 | 2025-08-10T12:00 | 2025-08-11T11:00 | Shibo Inu Union | MSMoon FC |
-| Day 9 | 2025-08-11T12:00 | 2025-08-12T11:00 | W-SHIDO Athletic | Kensei Rakun FC |
-| Day 9 | 2025-08-11T12:00 | 2025-08-12T11:00 | ShidoKid Academy | 0xDead Athletic |
-| Day 9 | 2025-08-11T12:00 | 2025-08-12T11:00 | SHDX United | Shidoshi Eleven |
-| Day 9 | 2025-08-11T12:00 | 2025-08-12T11:00 | Salt Rovers | MSMoon FC |
-| Day 9 | 2025-08-11T12:00 | 2025-08-12T11:00 | Crazy Chicken Town | Shibo Inu Union |
+---
+
+## #MatchDay1 — 2025-08-03  
+<--- Opening Day Matches (24h format) --->
+
+- **Match #0** — W-SHIDO Athletic vs 0xDead Athletic  
+- **Match #1** — Kensei Rakun FC vs Shidoshi Eleven  
+- **Match #2** — ShidoKid Academy vs MSMoon FC  
+- **Match #3** — SHDX United vs Shibo Inu Union  
+- **Match #4** — Salt Rovers vs Crazy Chicken Town
+
+---
+
+## #MatchDay2 — 2025-08-04  
+<--- Evening Matches (14:00–02:00 CET) --->
+
+- **Match #5** — W-SHIDO Athletic vs Shidoshi Eleven  
+- **Match #6** — 0xDead Athletic vs MSMoon FC  
+- **Match #7** — Kensei Rakun FC vs Shibo Inu Union  
+- **Match #8** — ShidoKid Academy vs Crazy Chicken Town  
+- **Match #9** — SHDX United vs Salt Rovers
+
+---
+
+## #MatchDay3 — 2025-08-05  
+<--- Evening Matches (14:00–02:00 CET) --->
+
+- **Match #10** — W-SHIDO Athletic vs MSMoon FC  
+- **Match #11** — Shidoshi Eleven vs Shibo Inu Union  
+- **Match #12** — 0xDead Athletic vs Crazy Chicken Town  
+- **Match #13** — Kensei Rakun FC vs Salt Rovers  
+- **Match #14** — ShidoKid Academy vs SHDX United
+
+---
+
+## #MatchDay4 — 2025-08-06  
+<--- Evening Matches (14:00–02:00 CET) --->
+
+- **Match #15** — W-SHIDO Athletic vs Shibo Inu Union  
+- **Match #16** — MSMoon FC vs Crazy Chicken Town  
+- **Match #17** — Shidoshi Eleven vs Salt Rovers  
+- **Match #18** — 0xDead Athletic vs SHDX United  
+- **Match #19** — Kensei Rakun FC vs ShidoKid Academy
+
+---
+
+## #MatchDay5 — 2025-08-07  
+<--- Evening Matches (14:00–02:00 CET) --->
+
+- **Match #20** — W-SHIDO Athletic vs Crazy Chicken Town  
+- **Match #21** — Shibo Inu Union vs Salt Rovers  
+- **Match #22** — MSMoon FC vs SHDX United  
+- **Match #23** — Shidoshi Eleven vs ShidoKid Academy  
+- **Match #24** — 0xDead Athletic vs Kensei Rakun FC
+
+---
+
+## #MatchDay6 — 2025-08-08  
+<--- Evening Matches (14:00–02:00 CET) --->
+
+- **Match #25** — W-SHIDO Athletic vs Salt Rovers  
+- **Match #26** — Crazy Chicken Town vs SHDX United  
+- **Match #27** — Shibo Inu Union vs ShidoKid Academy  
+- **Match #28** — MSMoon FC vs Kensei Rakun FC  
+- **Match #29** — Shidoshi Eleven vs 0xDead Athletic
+
+---
+
+## #MatchDay7 — 2025-08-09  
+<--- Evening Matches (14:00–02:00 CET) --->
+
+- **Match #30** — W-SHIDO Athletic vs SHDX United  
+- **Match #31** — Salt Rovers vs ShidoKid Academy  
+- **Match #32** — Crazy Chicken Town vs Kensei Rakun FC  
+- **Match #33** — Shibo Inu Union vs 0xDead Athletic  
+- **Match #34** — MSMoon FC vs Shidoshi Eleven
+
+---
+
+## #MatchDay8 — 2025-08-10  
+<--- Evening Matches (14:00–02:00 CET) --->
+
+- **Match #35** — W-SHIDO Athletic vs ShidoKid Academy  
+- **Match #36** — SHDX United vs Kensei Rakun FC  
+- **Match #37** — Salt Rovers vs 0xDead Athletic  
+- **Match #38** — Crazy Chicken Town vs Shidoshi Eleven  
+- **Match #39** — Shibo Inu Union vs MSMoon FC
+
+---
+
+## #MatchDay9 — 2025-08-11  
+<--- Evening Matches (14:00–02:00 CET) --->
+
+- **Match #40** — W-SHIDO Athletic vs Kensei Rakun FC  
+- **Match #41** — ShidoKid Academy vs 0xDead Athletic  
+- **Match #42** — SHDX United vs Shidoshi Eleven  
+- **Match #43** — Salt Rovers vs MSMoon FC  
+- **Match #44** — Crazy Chicken Town vs Shibo Inu Union
